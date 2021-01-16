@@ -96,43 +96,31 @@ categories: jekyll update
 
 \# tools
 
-0. <zoom 회의주소>
+0. \<zoom 회의주소\>
 
 https://zoom.us/j/6068190963?pwd=ZlJOMzNsS2FtZVpTYmVZUjJYYlZ5UT09
 
-<br/>
-
-1. <Java 2주안에 뿌시기>
+1. \<Java 2주안에 뿌시기\>
 
 https://m.blog.naver.com/kids_power/221826257771
 
-<br/>
-
-2. <생활코딩 자바>
+2. \<생활코딩 자바\>
 
 https://programmers.co.kr/learn/courses/5
 
-<br/>
-
-3. <프로그래머스 level1>
+3. \<프로그래머스 level1\>
 
 https://programmers.co.kr/learn/challenges
 
-<br/>
-
-4. <백준>
+4. \<백준\>
 
 https://www.acmicpc.net/step
 
-<br/>
-
-5. <코드업>
+5. \<코드업\>
 
 https://codeup.kr/
 
-<br/>
-
-6. <코드업 기초 100제 자바 코드>
+6. \<코드업 기초 100제 자바 코드\>
 
 https://girincode.tistory.com/32
 
