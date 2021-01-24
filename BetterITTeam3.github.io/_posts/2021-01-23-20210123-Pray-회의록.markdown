@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "20210116 Pray 회의록"
+title:  "20210123 Pray 회의록"
 date:   2021-01-16 20:14:13 +0900
 categories: jekyll update
 ---
